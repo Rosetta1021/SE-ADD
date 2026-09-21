@@ -1,0 +1,2 @@
+{"path":"examples/audio/example_real.wav","context":"examples/audio/example_real.wav","label":"bonafide","attack":"bonafide","attack_id":"bonafide","utterance_id":"example_real","environment":"D0"}
+{"path":"examples/audio/example_fake.wav","context":"examples/audio/example_fake.wav","label":"spoof","attack":"A01","attack_id":"A01","utterance_id":"example_fake","environment":"D0"}

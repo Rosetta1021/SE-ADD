@@ -1,0 +1,6 @@
+SE-ADD
+Copyright 2026 SE-ADD Authors
+
+This product provides integration code for separately obtained audio language
+models. Qwen2-Audio and MOSS-Audio are not included in this distribution and
+remain subject to their respective licenses and terms.
